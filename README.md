@@ -1,4 +1,4 @@
-# reach-mali
+# reach-mali-msna-scripts
 
 Ce repos contient les scripts, kobo et checklist utilisé lors du msna 2025.
 
